@@ -85,7 +85,7 @@ if(cluster.isMaster) {
 const dateObj = new Date();
   
     console.log(`
-Cảm ơn bạn đã ủng hộ DagTri nhiều nha <3 love u very much`);
+Tool By:TienDat https://www.facebook.com/profile.php?id=100041370318554);
     for(var bb=0;bb<thread;bb++) {
 
         cluster.fork();
